@@ -1,3 +1,8 @@
+/*
+	problem: http://community.topcoder.com/stat?c=problem_statement&pm=1524&rd=4472
+	Graph - DFS
+*/
+
 #include<stdio.h>
 
 #define G 1000
